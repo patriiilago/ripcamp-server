@@ -1,33 +1,49 @@
 {
-  "projects": [
-    {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
-    },
-    {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
-    {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
-  ]
+    "alumni": [
+        {
+            "id": 1,
+            "img": "#",
+            "fullName": {
+                "firstName": "Teresa",
+                "lastName": "Arranz"
+            },
+            "contact": {
+                "email": "teresa@msn.es",
+                "phone": "666000111"
+            },
+            "address": {
+                "street": "Alcalá",
+                "number": 105,
+                "zipcode": 28002,
+                "city": "Madrid",
+                "contry": "Spain"
+            },
+            "birth": "1991-02-25",
+            "isWorking": false,
+            "languages": [
+                "eng",
+                "esp"
+            ]
+        }
+    ],
+    "requests": [
+        {
+            "id": 1,
+            "alumniId": 1,
+            "campus": "Madrid",
+            "bootcamp": "Web",
+            "date": "2024-02-10",
+            "requestInfo": {
+                "type": "doubt",
+                "project": 1,
+                "tags": [
+                    "javascript",
+                    "async programming",
+                    "reactjs"
+                ],
+                "title": "How to handle async await",
+                "description": "I am trying to lorem i`psum dolro sit amet"
+            }
+        }
+    ]
 }
