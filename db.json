@@ -2,7 +2,7 @@
     "alumni": [
         {
             "id": 1,
-            "img": "#",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOk1uPPP3g304QmYTJf4IA8vz8mgbiwcGWkA&usqp=CAU",
             "fullName": {
                 "firstName": "Teresa",
                 "lastName": "Arranz"
@@ -19,6 +19,106 @@
                 "contry": "Spain"
             },
             "birth": "1991-02-25",
+            "isWorking": false,
+            "languages": [
+                "eng",
+                "esp"
+            ]
+        },
+        {
+            "id": 2,
+            "img": "https://static.cegos.es/content/uploads/2023/03/01165224/GettyImages-1300321639.jpg",
+            "fullName": {
+                "firstName": "Patri",
+                "lastName": "Lago"
+            },
+            "contact": {
+                "email": "patri@msn.es",
+                "phone": "666000222"
+            },
+            "address": {
+                "street": "Santa María",
+                "number": 50,
+                "zipcode": 28045,
+                "city": "Madrid",
+                "contry": "Spain"
+            },
+            "birth": "1991-03-28",
+            "isWorking": true,
+            "languages": [
+                "eng",
+                "esp"
+            ]
+        },
+        {
+            "id": 3,
+            "img": "https://st3.depositphotos.com/2024219/31902/i/450/depositphotos_319025484-stock-photo-young-girl-isolated-background-unhappy.jpg",
+            "fullName": {
+                "firstName": "Lara",
+                "lastName": "García"
+            },
+            "contact": {
+                "email": "lara@msn.es",
+                "phone": "666000333"
+            },
+            "address": {
+                "street": "Elfo",
+                "number": 22,
+                "zipcode": 28018,
+                "city": "Madrid",
+                "contry": "Spain"
+            },
+            "birth": "1985-08-03",
+            "isWorking": false,
+            "languages": [
+                "eng",
+                "esp"
+            ]
+        },
+        {
+            "id": 4,
+            "img": "https://files.slack.com/files-tmb/T06BMN0R8BG-F06JJGZ98MD-846b8f0ef9/image_480.png",
+            "fullName": {
+                "firstName": "Francisco",
+                "lastName": "Perez"
+            },
+            "contact": {
+                "email": "francisco@msn.es",
+                "phone": "666000444"
+            },
+            "address": {
+                "street": "Huertas",
+                "number": 48,
+                "zipcode": 28012,
+                "city": "Madrid",
+                "contry": "Spain"
+            },
+            "birth": "1989-09-11",
+            "isWorking": true,
+            "languages": [
+                "eng",
+                "esp"
+            ]
+        },
+        {
+            "id": 5,
+            "img": "https://files.slack.com/files-tmb/T06BMN0R8BG-F06JSEWG29L-0c9b9a675d/image_360.png",
+            "fullName": {
+                "firstName": "Juan",
+                "lastName": "Escudero"
+            },
+            "contact": {
+                "email": "juan@msn.es",
+                "phone": "666000555"
+            },
+            "address": {
+                "street": "Modesto Lafuente",
+                "number": 83,
+                "zipcode": 28005,
+                "city": "Madrid",
+                "contry": "Spain"
+            },
+            "birth": "1994-05-15",
             "isWorking": false,
             "languages": [
                 "eng",
