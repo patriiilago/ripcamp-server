@@ -21,7 +21,7 @@
             "birth": "1991-02-25",
             "isWorking": false,
             "languages": [
-                "english and",
+                "english",
                 "spanish"
             ]
         },
@@ -46,7 +46,7 @@
             "birth": "1991-03-28",
             "isWorking": true,
             "languages": [
-                "english and",
+                "english",
                 "spanish"
             ]
         },
@@ -71,7 +71,7 @@
             "birth": "1985-08-03",
             "isWorking": false,
             "languages": [
-                "english and",
+                "english",
                 "spanish"
             ]
         },
@@ -96,7 +96,7 @@
             "birth": "1989-09-11",
             "isWorking": true,
             "languages": [
-                "english and",
+                "english",
                 "spanish"
             ]
         },
@@ -121,7 +121,7 @@
             "birth": "1994-05-15",
             "isWorking": false,
             "languages": [
-                "english and",
+                "english",
                 "spanish"
             ]
         }
