@@ -1,151 +1,315 @@
 {
-    "alumni": [
-        {
-            "id": 1,
-            "img": "https://noticaribe.com.mx/wp/wp-content/uploads/2024/02/10-3.jpg",
-            "fullName": {
-                "firstName": "Teresa",
-                "lastName": "Arranz"
-            },
-            "contact": {
-                "email": "teresa@msn.es",
-                "phone": "666000111"
-            },
-            "address": {
-                "street": "Alcalá",
-                "number": 105,
-                "zipcode": 28002,
-                "city": "Madrid",
-                "contry": "Spain"
-            },
-            "birth": "1991-02-25",
-            "isWorking": false,
-            "languages": [
-                "english",
-                "spanish"
-            ]
-        },
-        {
-            "id": 2,
-            "img": "https://static.cegos.es/content/uploads/2023/03/01165224/GettyImages-1300321639.jpg",
-            "fullName": {
-                "firstName": "Patri",
-                "lastName": "Lago"
-            },
-            "contact": {
-                "email": "patri@msn.es",
-                "phone": "666000222"
-            },
-            "address": {
-                "street": "Santa María",
-                "number": 50,
-                "zipcode": 28045,
-                "city": "Madrid",
-                "contry": "Spain"
-            },
-            "birth": "1991-03-28",
-            "isWorking": true,
-            "languages": [
-                "english",
-                "spanish"
-            ]
-        },
-        {
-            "id": 3,
-            "img": "https://holatelcel.com/wp-content/uploads/2023/12/Disen%CC%83o-sin-ti%CC%81tulo-74.png",
-            "fullName": {
-                "firstName": "Lara",
-                "lastName": "García"
-            },
-            "contact": {
-                "email": "lara@msn.es",
-                "phone": "666000333"
-            },
-            "address": {
-                "street": "Elfo",
-                "number": 22,
-                "zipcode": 28018,
-                "city": "Madrid",
-                "contry": "Spain"
-            },
-            "birth": "1985-08-03",
-            "isWorking": false,
-            "languages": [
-                "english",
-                "spanish"
-            ]
-        },
-        {
-            "id": 4,
-            "img": "https://i.etsystatic.com/20525733/r/il/8578de/5117587364/il_fullxfull.5117587364_bmz8.jpg",
-            "fullName": {
-                "firstName": "Francisco",
-                "lastName": "Perez"
-            },
-            "contact": {
-                "email": "francisco@msn.es",
-                "phone": "666000444"
-            },
-            "address": {
-                "street": "Huertas",
-                "number": 48,
-                "zipcode": 28012,
-                "city": "Madrid",
-                "contry": "Spain"
-            },
-            "birth": "1989-09-11",
-            "isWorking": true,
-            "languages": [
-                "english",
-                "spanish"
-            ]
-        },
-        {
-            "id": 5,
-            "img": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tYnJlJTIwbmVncm98ZW58MHx8MHx8fDA%3D",
-            "fullName": {
-                "firstName": "Juan",
-                "lastName": "Escudero"
-            },
-            "contact": {
-                "email": "juan@msn.es",
-                "phone": "666000555"
-            },
-            "address": {
-                "street": "Modesto Lafuente",
-                "number": 83,
-                "zipcode": 28005,
-                "city": "Madrid",
-                "contry": "Spain"
-            },
-            "birth": "1994-05-15",
-            "isWorking": false,
-            "languages": [
-                "english",
-                "spanish"
-            ]
-        }
-    ],
-    "requests": [
-        {
-            "id": 1,
-            "alumniId": 1,
-            "email": "teresa@msn.es",
-            "name": "teresa",
-            "campus": "Madrid",
-            "bootcamp": "Web",
-            "date": "2024-02-10",
-            "requestInfo": {
-                "type": "doubt",
-                "project": 1,
-                "tags": [
-                    "javascript",
-                    "async programming",
-                    "reactjs"
-                ],
-                "title": "How to handle async await",
-                "description": "I am trying to lorem i`psum dolro sit amet"
-            }
-        }
-    ]
+  "alumni": [
+    {
+      "id": 1,
+      "img": "https://noticaribe.com.mx/wp/wp-content/uploads/2024/02/10-3.jpg",
+      "fullName": {
+        "firstName": "Teresa",
+        "lastName": "Arranz"
+      },
+      "contact": {
+        "email": "teresa@msn.es",
+        "phone": "666000111"
+      },
+      "address": {
+        "street": "Alcalá",
+        "number": 105,
+        "zipcode": 28002,
+        "city": "Madrid",
+        "contry": "Spain"
+      },
+      "birth": "1991-02-25",
+      "campus": "Madrid",
+      "bootcamp": "Web",
+      "isWorking": false,
+      "languages": [
+        "english",
+        "spanish"
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://static.cegos.es/content/uploads/2023/03/01165224/GettyImages-1300321639.jpg",
+      "fullName": {
+        "firstName": "Patri",
+        "lastName": "Lago"
+      },
+      "contact": {
+        "email": "patri@msn.es",
+        "phone": "666000222"
+      },
+      "address": {
+        "street": "Santa María",
+        "number": 50,
+        "zipcode": 28045,
+        "city": "Madrid",
+        "contry": "Spain"
+      },
+      "birth": "1991-03-28",
+      "campus": "Barcelona",
+      "bootcamp": "Data",
+      "isWorking": true,
+      "languages": [
+        "english",
+        "spanish"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://holatelcel.com/wp-content/uploads/2023/12/Disen%CC%83o-sin-ti%CC%81tulo-74.png",
+      "fullName": {
+        "firstName": "Lara",
+        "lastName": "García"
+      },
+      "contact": {
+        "email": "lara@msn.es",
+        "phone": "666000333"
+      },
+      "address": {
+        "street": "Elfo",
+        "number": 22,
+        "zipcode": 28018,
+        "city": "Madrid",
+        "contry": "Spain"
+      },
+      "birth": "1985-08-03",
+      "campus": "Miami",
+      "bootcamp": "Web",
+      "isWorking": false,
+      "languages": [
+        "english",
+        "spanish"
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://i.etsystatic.com/20525733/r/il/8578de/5117587364/il_fullxfull.5117587364_bmz8.jpg",
+      "fullName": {
+        "firstName": "Francisco",
+        "lastName": "Perez"
+      },
+      "contact": {
+        "email": "francisco@msn.es",
+        "phone": "666000444"
+      },
+      "address": {
+        "street": "Huertas",
+        "number": 48,
+        "zipcode": 28012,
+        "city": "Madrid",
+        "contry": "Spain"
+      },
+      "birth": "1989-09-11",
+      "campus": "Paris",
+      "bootcamp": "Data",
+      "isWorking": true,
+      "languages": [
+        "english",
+        "spanish"
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tYnJlJTIwbmVncm98ZW58MHx8MHx8fDA%3D",
+      "fullName": {
+        "firstName": "Juan",
+        "lastName": "Escudero"
+      },
+      "contact": {
+        "email": "juan@msn.es",
+        "phone": "666000555"
+      },
+      "address": {
+        "street": "Modesto Lafuente",
+        "number": 83,
+        "zipcode": 28005,
+        "city": "Madrid",
+        "contry": "Spain"
+      },
+      "birth": "1994-05-15",
+      "campus": "Londres",
+      "bootcamp": "Web",
+      "isWorking": false,
+      "languages": [
+        "english",
+        "spanish"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "alumniId": 1,
+      "email": "teresa@msn.es",
+      "name": "teresa",
+      "date": "2024-02-10",
+      "requestInfo": {
+        "type": "doubt",
+        "project": 1,
+        "tags": [
+          "javascript",
+          "async programming",
+          "reactjs"
+        ],
+        "title": "How to handle async await",
+        "description": "I am trying to lorem i`psum dolro sit amet"
+      }
+    },
+    {
+      "id": 2,
+      "description": "hola q ase!"
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 6
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 7
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 8
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 9
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "project": "2",
+      "id": 11
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 12
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 13
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 14
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 15
+    },
+    {
+      "email": "tereac1102@gmail.com",
+      "name": "Teresa",
+      "bootcamp": "",
+      "type": "Help",
+      "tags": "Phyton",
+      "title": "knlk",
+      "description": "lknlnml",
+      "project": "2",
+      "id": 16
+    },
+    {
+      "email": "",
+      "name": "",
+      "bootcamp": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 17
+    }
+  ]
 }
