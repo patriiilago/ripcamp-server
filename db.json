@@ -130,6 +130,8 @@
         {
             "id": 1,
             "alumniId": 1,
+            "email": "teresa@msn.es",
+            "name": "teresa",
             "campus": "Madrid",
             "bootcamp": "Web",
             "date": "2024-02-10",
