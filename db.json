@@ -138,19 +138,6 @@
   ],
   "requests": [
     {
-      "email": "tereac1102@gmail.com",
-      "name": "Teresa",
-      "bootcamp": "",
-      "type": "Help",
-      "tags": "Reactjs",
-      "title": "TERESA",
-      "description": "ESTO ES UN HORROR NO PUEDO MAS CON LA VIDA, DE VERDAD QUE YO ESTABA BIEN HACIENDO NOMINAS Y TODO ESO, JUMMMM",
-      "project": "2",
-      "response": false,
-      "textresponse": "",
-      "id": 20
-    },
-    {
       "email": "patri@msn.com",
       "name": "PATRICIA",
       "bootcamp": "",
@@ -198,6 +185,24 @@
       "description": "PROBANDO EL ACORDEON",
       "project": "2",
       "id": 29
+    },
+    {
+      "email": "",
+      "name": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 30
+    },
+    {
+      "email": "",
+      "name": "",
+      "type": "",
+      "tags": "",
+      "title": "",
+      "description": "",
+      "id": 31
     }
   ]
 }
