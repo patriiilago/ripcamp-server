@@ -146,6 +146,8 @@
       "title": "TERESA",
       "description": "ESTO ES UN HORROR NO PUEDO MAS CON LA VIDA, DE VERDAD QUE YO ESTABA BIEN HACIENDO NOMINAS Y TODO ESO, JUMMMM",
       "project": "2",
+      "response": false,
+      "textresponse": "",
       "id": 20
     },
     {
@@ -157,18 +159,9 @@
       "title": "CAGONTÓ",
       "description": "NO PUC MES, MARE MEVA, OMG LOOOOOOOOOOOOOOOOOOOOOOOOOOOL SOCORRROOOOOOOOOOO",
       "project": "3",
+      "response": false,
+      "textresponse": "",
       "id": 21
-    },
-    {
-      "email": "tereac1102@gmail.com",
-      "name": "ergerherhdbar",
-      "bootcamp": "",
-      "type": "Technical Assistance",
-      "tags": "",
-      "title": "Ayuda",
-      "description": "",
-      "id": 25,
-      "project": "2"
     },
     {
       "email": "tereac1102@gmail.com",
@@ -179,6 +172,8 @@
       "title": "SOCORRRO",
       "description": "NECESITO AYUDAAAAAAAAAAAAA",
       "project": "2",
+      "response": true,
+      "textresponse": "",
       "id": 26
     },
     {
@@ -190,34 +185,19 @@
       "title": "MIERCOLES",
       "description": "PRUEBAAAAAAAAAA  MIERCOLESSSSSSSSSS",
       "project": "3",
+      "response": true,
+      "textresponse": "",
       "id": 28
     },
     {
-      "email": "",
-      "name": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
+      "email": "tereac1102@gmail.com",
+      "name": "Teresa",
+      "type": "Doubt",
+      "tags": "Async programming",
+      "title": "ESTAMOS",
+      "description": "PROBANDO EL ACORDEON",
+      "project": "2",
       "id": 29
-    },
-    {
-      "email": "",
-      "name": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 30
-    },
-    {
-      "email": "",
-      "name": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 31
     }
   ]
 }
