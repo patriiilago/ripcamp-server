@@ -138,182 +138,12 @@
   ],
   "requests": [
     {
-      "id": 1,
-      "alumniId": 1,
-      "email": "teresa@msn.es",
-      "name": "teresa",
-      "date": "2024-02-10",
-      "requestInfo": {
-        "type": "doubt",
-        "project": 1,
-        "tags": [
-          "javascript",
-          "async programming",
-          "reactjs"
-        ],
-        "title": "How to handle async await",
-        "description": "I am trying to lorem i`psum dolro sit amet"
-      }
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 5
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 6
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 7
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 8
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 9
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 10
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "project": "2",
-      "id": 11
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 12
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 13
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 14
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 15
-    },
-    {
-      "email": "tereac1102@gmail.com",
-      "name": "Teresa",
-      "bootcamp": "",
-      "type": "Help",
-      "tags": "Phyton",
-      "title": "knlk",
-      "description": "lknlnml",
-      "project": "2",
-      "id": 16
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 17
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 18
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 19
-    },
-    {
       "email": "tereac1102@gmail.com",
       "name": "Teresa",
       "bootcamp": "",
       "type": "Help",
       "tags": "Reactjs",
-      "title": "SOCORRO",
+      "title": "TERESA",
       "description": "ESTO ES UN HORROR NO PUEDO MAS CON LA VIDA, DE VERDAD QUE YO ESTABA BIEN HACIENDO NOMINAS Y TODO ESO, JUMMMM",
       "project": "2",
       "id": 20
@@ -328,37 +158,6 @@
       "description": "NO PUC MES, MARE MEVA, OMG LOOOOOOOOOOOOOOOOOOOOOOOOOOOL SOCORRROOOOOOOOOOO",
       "project": "3",
       "id": 21
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 22
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 23
-    },
-    {
-      "email": "tereac1102@gmail.com",
-      "name": "Teresa",
-      "bootcamp": "",
-      "type": "Doubt",
-      "tags": "Async programming",
-      "title": "hola q ase",
-      "description": "hola q tal socorro muero me quiero ir ciao",
-      "project": "3",
-      "id": 24
     },
     {
       "email": "tereac1102@gmail.com",
@@ -380,16 +179,6 @@
       "description": "NECESITO AYUDAAAAAAAAAAAAA",
       "project": "2",
       "id": 26
-    },
-    {
-      "email": "",
-      "name": "",
-      "bootcamp": "",
-      "type": "",
-      "tags": "",
-      "title": "",
-      "description": "",
-      "id": 27
     },
     {
       "email": "tereac1102@gmail.com",
