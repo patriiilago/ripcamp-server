@@ -138,29 +138,7 @@
   ],
   "requests": [
     {
-      "email": "patri@msn.com",
-      "name": "PATRICIA",
-      "bootcamp": "",
-      "type": "Technical Assistance",
-      "tags": "Reactjs",
-      "title": "CAGONTÓ",
-      "description": "NO PUC MES, MARE MEVA, OMG LOOOOOOOOOOOOOOOOOOOOOOOOOOOL SOCORRROOOOOOOOOOO",
-      "project": "3",
-      "response": false,
-      "textresponse": "",
-      "id": 21
-    },
-    {
-      "email": "tereac1102@gmail.com",
-      "name": "Teresa",
-      "bootcamp": "",
-      "type": "Doubt",
-      "tags": "JavaScript",
-      "title": "SOCORRRO",
-      "description": "NECESITO AYUDAAAAAAAAAAAAA",
-      "project": "2",
-      "response": true,
-      "textresponse": "",
+      "name": "Tere",
       "id": 26
     },
     {
@@ -188,12 +166,21 @@
     },
     {
       "email": "",
-      "name": "hola! prueba 2",
+      "name": "",
       "type": "",
       "tags": "",
       "title": "",
       "description": "",
       "id": 30
+    },
+    {
+      "email": "",
+      "name": "",
+      "type": "",
+      "tags": "JavaScript",
+      "title": "hola",
+      "description": "adfdg",
+      "id": 31
     }
   ]
 }
