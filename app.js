@@ -1,6 +1,7 @@
 require("dotenv").config();
 const jsonServer = require("json-server");
 const morgan = require("morgan");
+const cors = require('cors')
 
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
@@ -14,6 +15,7 @@ server.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   next();
 });
+server.use(cors())
 server.use(router);
 
 server.listen(PORT, () => {
